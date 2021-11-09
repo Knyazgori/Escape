@@ -1,9 +1,7 @@
 ## Escape
 
-### Заказная разработка прототипа сайта ''СВОЁ'' для дизайнерского сообщества ВШЭ. проект на стадии MVP
-
-#### Главная страница в стиеле тетрис:
-![](/screens/mainpage.png)
+#### Главная страница:
+![](/screens/main-page.png)
 
 ####  Главная страница. Блок новостей, подключенных через API:
 ![](/screenshots/news.png)
@@ -26,12 +24,9 @@
 ## Стек технологий:
 JavaScript
 
-**Front**: React + Redux, HTML5, CSS3, JavaScript, Three.js;
-
-**Animation**: Three.js, React-animation, React-reveal
+**Front**: React + Redux, HTML5, CSS3, JavaScript;
 
 **Back**: NodeJS, Express, PostgreSQL, sessions and cookies, Sequelize ORM;
 
 **DB**: PostgreSQL, Sequelize ORM
 
-**Other**: Git, GitHub, VS Code, Figma, Avocode;
